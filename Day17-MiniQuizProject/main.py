@@ -16,5 +16,5 @@ while quiz.still_has_questions():
     quiz.next_question()
 
 print("You are done!")
-print("You final score is : " + str(quiz.score) + "!")
+print("Your final score is : " + str(quiz.score) + "!")
 
