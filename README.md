@@ -15,6 +15,8 @@ Language:
 <ul>・HTML</ul>
 <ul>・CSS</ul>
 
+URL : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day17-MiniQuizProject">100 Days of Code: The Complete Python Pro Bootcamp for 2023</a>
+
 
 
 
