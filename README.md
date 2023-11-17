@@ -1,4 +1,4 @@
-<h1>Udemy-Python-Project <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"></h1>
+<h1>Udemy-Python-Project <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"></h1>
 
 <br>
 
