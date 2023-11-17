@@ -1,5 +1,7 @@
 <h1>Udemy-Python-Project</h1> 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="Python">
+
 <br>
 
 All projects follow the instructions provided in the Udemy tutorial "100 Days of Code: The Complete Python Pro Bootcamp for 2023."
