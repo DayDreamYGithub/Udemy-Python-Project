@@ -15,7 +15,11 @@ Language:
 <ul>・HTML</ul>
 <ul>・CSS</ul>
 
+<hr>
+
 Day17 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day17-MiniQuizProject">Mini Quiz Project</a>
+
+Day22 : The Snake Game
 
 
 
