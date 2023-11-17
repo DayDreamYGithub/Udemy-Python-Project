@@ -1,6 +1,6 @@
 <h1>Udemy-Python-Project</h1> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="Python" width="500" height="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="Python" width="100" height="100">
 
 <br>
 
