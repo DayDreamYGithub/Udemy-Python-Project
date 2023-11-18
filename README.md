@@ -19,7 +19,9 @@ Language:
 
 Day17 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day17-MiniQuizProject">Mini Quiz Project</a>
 
-Day22 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day21-TheSnakeGame">The Snake Game</a>
+Day21 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day21-TheSnakeGame">The Snake Game</a>
+
+Day22 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day22-ThePONGGame">The PONG Game</a>
 
 
 
