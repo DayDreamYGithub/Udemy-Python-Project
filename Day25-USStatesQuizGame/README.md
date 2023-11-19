@@ -4,4 +4,6 @@ It is a US state naming quiz game made with Python. It utilizes pandas for CSV m
 
 これはPythonで作られた米国の州の命名クイズゲームです。CSVの操作にはpandasが使われています。プレイヤーは米国のすべての州名を書き留める必要があります。ゲームの終了時には、プレイヤーが見逃した州をリストしたCSVファイルも生成されます。
 
+<hr>
+
 <img src="https://github.com/DayDreamYGithub/Udemy-Python-Projects/blob/main/Day25-USStatesQuizGame/USStatesQuizGame.png?raw=true" alt="Day25-USStatesQuizGame">
