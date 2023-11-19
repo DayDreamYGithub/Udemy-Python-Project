@@ -23,6 +23,8 @@ Day21 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/m
 
 Day22 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day22-ThePONGGame">The PONG Game</a>
 
+Day25 : <a href="https://github.com/DayDreamYGithub/Udemy-Python-Projects/tree/main/Day25-USStatesQuizGame">US States Quiz Game</a>
+
 
 
 
