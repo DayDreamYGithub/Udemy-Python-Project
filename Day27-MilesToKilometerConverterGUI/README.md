@@ -7,4 +7,4 @@ This program is a simple application that, based on user input, converts miles t
 
 <hr>
 
-<img src="https://github.com/DayDreamYGithub/Udemy-Python-Projects/blob/main/Day25-USStatesQuizGame/USStatesQuizGame.png?raw=true" alt="Day25-USStatesQuizGame">
+<img src="https://github.com/DayDreamYGithub/Udemy-Python-Projects/blob/main/Day27-MilesToKilometerConverterGUI/Converter.png?raw=true" alt="Day27-MilesToKilometerConverterGUI">
